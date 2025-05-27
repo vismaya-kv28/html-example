@@ -1,0 +1,22 @@
+.v{
+    background-color: brown;
+    margin: 60px;
+    padding: 60px;
+    border: 50px solid yellow;
+    border-radius: 40px;
+
+}
+.i{
+    background-color: aqua;
+    margin: 40px;
+    padding: 50px;
+    border: 60px dotted rosybrown;
+    border-radius: 50px;
+}
+.c{
+    background-color: brown;
+    margin: 50px;
+    padding: 30px;
+    border: 70px dashed gray;
+    border-radius: 60px;
+}

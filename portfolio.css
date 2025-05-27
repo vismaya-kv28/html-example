@@ -1,0 +1,57 @@
+#two{
+    background-color: black;
+    color: antiquewhite;
+}
+
+
+h3{
+    background-color: rgb(132, 61, 7);
+    color: antiquewhite;
+
+}
+h4{
+    background-color: rgb(197, 14, 14);
+    color: antiquewhite;
+}
+h2{
+    background-color: rgb(61, 42, 165);
+    color: antiquewhite;
+}
+h5{
+    background-color: rgb(197, 35, 135);
+    color: rgb(161, 95, 8);
+}
+.five
+{
+    background-color: rgb(145, 224, 163);
+    color: rgb(9, 9, 9);
+}
+.six{
+    background-color: rgb(114, 166, 214);
+    color: black;
+}
+.seven{
+    background-color: rgb(225, 132, 188);
+    color: black;
+}
+body{
+    
+    background-color: rgb(236, 189, 120);
+    
+}
+header{
+    text-align: center;
+}
+article{
+
+
+    text-align: center;
+}
+h5{
+    background-color: blueviolet;
+    color: black;
+}
+footer{
+    text-align: center;
+}
+
