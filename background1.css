@@ -1,0 +1,54 @@
+.one{
+    background-image: url(image1.png);
+    background-repeat: no-repeat;
+    background-position: bottom top;
+    background-size: cover;
+    opacity: 0.9;
+    border:40px  dotted black;
+    padding: 20px;
+    border-radius:40px ;
+    margin: 40px;
+    font-family: serif;
+    color: black;
+
+
+    
+}
+.two{
+    background-image: url(image2.png);
+    background-color: cornflowerblue;
+    background-position: bottom top;
+    background-repeat: no-repeat;
+    opacity:0.9;
+    border: 40px solid bisque;
+    padding:20px ;
+    border-radius:40px ;
+    margin: 40px;
+    font-family: cursive;
+    font-size: medium;
+
+}
+.three{
+    background-image:url(image3.png);
+    background-position:  top left ;
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: cover;
+    
+    color: black;
+    opacity: 0.9;
+    border: 40px double black;
+    border-radius: 30px;
+    padding: 30px;
+    margin: 40px;
+    font-family: monospace;
+    font-size: medium;
+
+
+    
+
+}
+h1{
+    text-align: center;
+    color: black;
+}
