@@ -1,0 +1,8 @@
+.box3{
+    background-color: royalblue;
+    color: black;
+    position: absolute;
+    top: 80px; 
+    right: 60px;
+    border: 50px solid black;
+}

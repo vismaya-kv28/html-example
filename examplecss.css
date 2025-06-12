@@ -1,0 +1,17 @@
+.a1{
+    background-color: blueviolet;
+    color: black;
+    max-height: 200px;
+    max-width: 500px;
+    overflow: auto;
+}
+
+
+
+.a2{
+    background-color: green;
+    color:black;
+    min-height:200px ;
+    min-width: 300px;
+
+}

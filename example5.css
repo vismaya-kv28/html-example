@@ -1,0 +1,30 @@
+img{
+    border-radius: 200px;
+}
+.a{
+    display: flex;
+    justify-content: space-around;
+}
+.b{
+    display: flex;
+    justify-content: space-around;
+}
+.a1{
+    background-color: lightgray;
+    width: 400px;
+justify-content: center;
+text-align: center;
+
+}
+.b3{
+background-color: lightgray;
+width: 400px;
+justify-content: center;
+text-align: center;
+}
+h5{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}

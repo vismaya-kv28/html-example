@@ -1,0 +1,36 @@
+.box1{
+    background-color: blueviolet;
+    color: black;
+    position: static;
+}
+.box2{
+    background-color: aqua;
+    color: black;
+    position: relative;
+    top: 50px;
+left:80px ;
+}
+.box3{
+    background-color: darkolivegreen;
+    color: black;
+    position: absolute;
+    top: 50px;
+   left: 70px;
+    bottom: 90px;
+}
+.box4{
+    background-color: slateblue;
+    color: black;
+    position: sticky;
+ right: 80px;
+  top: 50px;
+
+}
+.box5{
+    background-color: hotpink;
+    color: black;
+    position: fixed;
+    top: 50px;
+    right: 70px;
+
+}
